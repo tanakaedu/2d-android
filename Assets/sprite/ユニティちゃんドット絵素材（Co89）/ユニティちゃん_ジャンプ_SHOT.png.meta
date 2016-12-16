@@ -1,0 +1,238 @@
+fileFormatVersion: 2
+guid: ba157d79492a285439ff7297d2f18f5e
+timeCreated: 1478501400
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: "\u30E6\u30CB\u30C6\u30A3\u3061\u3083\u3093_\u30B8\u30E3\u30F3\u30D7_SHOT_0"
+    21300002: "\u30E6\u30CB\u30C6\u30A3\u3061\u3083\u3093_\u30B8\u30E3\u30F3\u30D7_SHOT_1"
+    21300004: "\u30E6\u30CB\u30C6\u30A3\u3061\u3083\u3093_\u30B8\u30E3\u30F3\u30D7_SHOT_2"
+    21300006: "\u30E6\u30CB\u30C6\u30A3\u3061\u3083\u3093_\u30B8\u30E3\u30F3\u30D7_SHOT_3"
+    21300008: "\u30E6\u30CB\u30C6\u30A3\u3061\u3083\u3093_\u30B8\u30E3\u30F3\u30D7_SHOT_4"
+    21300010: "\u30E6\u30CB\u30C6\u30A3\u3061\u3083\u3093_\u30B8\u30E3\u30F3\u30D7_SHOT_5"
+    21300012: "\u30E6\u30CB\u30C6\u30A3\u3061\u3083\u3093_\u30B8\u30E3\u30F3\u30D7_SHOT_6"
+    21300014: "\u30E6\u30CB\u30C6\u30A3\u3061\u3083\u3093_\u30B8\u30E3\u30F3\u30D7_SHOT_7"
+    21300016: "\u30E6\u30CB\u30C6\u30A3\u3061\u3083\u3093_\u30B8\u30E3\u30F3\u30D7_SHOT_8"
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -2
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: 0
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 30
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: "\u30E6\u30CB\u30C6\u30A3\u3061\u3083\u3093_\u30B8\u30E3\u30F3\u30D7_SHOT_0"
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 10
+        width: 50
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 43}
+        - {x: -25, y: 28}
+        - {x: -25, y: 5}
+        - {x: -20, y: 0}
+        - {x: 20, y: 0}
+        - {x: 25, y: 5}
+        - {x: 25, y: 35}
+        - {x: 16, y: 43}
+    - name: "\u30E6\u30CB\u30C6\u30A3\u3061\u3083\u3093_\u30B8\u30E3\u30F3\u30D7_SHOT_1"
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 8
+        width: 44
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 49}
+        - {x: -15, y: 46}
+        - {x: -22, y: 31}
+        - {x: -22, y: 6}
+        - {x: -14, y: 0}
+        - {x: 14, y: 0}
+        - {x: 22, y: 13}
+        - {x: 22, y: 44}
+        - {x: 8, y: 49}
+    - name: "\u30E6\u30CB\u30C6\u30A3\u3061\u3083\u3093_\u30B8\u30E3\u30F3\u30D7_SHOT_2"
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 8
+        width: 38
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11, y: 47}
+        - {x: 6, y: 50}
+        - {x: -15, y: 50}
+        - {x: -19, y: 45}
+        - {x: -19, y: 1}
+        - {x: -17, y: 0}
+        - {x: 4, y: 0}
+        - {x: 19, y: 21}
+        - {x: 19, y: 41}
+        - {x: 8, y: 42}
+    - name: "\u30E6\u30CB\u30C6\u30A3\u3061\u3083\u3093_\u30B8\u30E3\u30F3\u30D7_SHOT_3"
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 8
+        width: 39
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.5, y: 50}
+        - {x: -19.5, y: 38}
+        - {x: -19.5, y: 1}
+        - {x: -16.5, y: 0}
+        - {x: 3.5, y: 0}
+        - {x: 19.5, y: 23}
+        - {x: 19.5, y: 45}
+        - {x: 6.5, y: 50}
+    - name: "\u30E6\u30CB\u30C6\u30A3\u3061\u3083\u3093_\u30B8\u30E3\u30F3\u30D7_SHOT_4"
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 11
+        width: 52
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 48}
+        - {x: -26, y: 35}
+        - {x: -26, y: 11}
+        - {x: -11, y: 0}
+        - {x: 15, y: 0}
+        - {x: 26, y: 19}
+        - {x: 26, y: 39}
+        - {x: 12, y: 48}
+    - name: "\u30E6\u30CB\u30C6\u30A3\u3061\u3083\u3093_\u30B8\u30E3\u30F3\u30D7_SHOT_5"
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 11
+        width: 52
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26, y: 47}
+        - {x: -26, y: 21}
+        - {x: -14, y: 0}
+        - {x: 18, y: 0}
+        - {x: 26, y: 15}
+        - {x: 26, y: 37}
+        - {x: 13, y: 47}
+    - name: "\u30E6\u30CB\u30C6\u30A3\u3061\u3083\u3093_\u30B8\u30E3\u30F3\u30D7_SHOT_6"
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 6
+        width: 43
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21.5, y: 59}
+        - {x: -21.5, y: 28}
+        - {x: -10.5, y: 0}
+        - {x: 10.5, y: 0}
+        - {x: 15.5, y: 2}
+        - {x: 21.5, y: 25}
+        - {x: 21.5, y: 45}
+        - {x: 3.5, y: 59}
+    - name: "\u30E6\u30CB\u30C6\u30A3\u3061\u3083\u3093_\u30B8\u30E3\u30F3\u30D7_SHOT_7"
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 6
+        width: 40
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 59}
+        - {x: -20, y: 3}
+        - {x: -14, y: 0}
+        - {x: 4, y: 0}
+        - {x: 13, y: 3}
+        - {x: 20, y: 26}
+        - {x: 20, y: 45}
+        - {x: -1, y: 59}
+    - name: "\u30E6\u30CB\u30C6\u30A3\u3061\u3083\u3093_\u30B8\u30E3\u30F3\u30D7_SHOT_8"
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 2
+        width: 51
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25.5, y: 50}
+        - {x: -25.5, y: 28}
+        - {x: -10.5, y: 0}
+        - {x: 16.5, y: 0}
+        - {x: 25.5, y: 26}
+        - {x: 25.5, y: 44}
+        - {x: 18.5, y: 50}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
