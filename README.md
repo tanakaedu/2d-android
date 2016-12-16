@@ -2,7 +2,8 @@
 androidビルドの練習用リポジトリ。
 
 # ライセンス
-![ユニティちゃんライセンスLogo](https://github.com/tanakaedu/2d-android/blob/master/UCL2.0/License%20Logo/Others/svg/Light_Frame.svg)
+![UnityChanLogo](https://github.com/tanakaedu/2d-android/blob/master/UCL2.0/License%20Logo/Others/png/Light_Frame.png)
+
 この作品は[ユニティちゃんライセンス条項](http://unity-chan.com/contents/license_jp/)の元に提供されています
 
 # 参考URL
